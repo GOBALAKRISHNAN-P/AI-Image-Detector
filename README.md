@@ -1,5 +1,7 @@
 # AI Image Authenticity Detector
 
+[🌐 👉 CLICK HERE FOR LIVE DEMO 👈]( https://gobalakrishnan-p.github.io/AI-Image-Detector/)
+
 A clean, privacy-first web application that analyzes uploaded images in real-time to predict whether an image is **Likely AI-Generated / Manipulated**, **Likely Authentic**, or **Uncertain**.
 
 ---
